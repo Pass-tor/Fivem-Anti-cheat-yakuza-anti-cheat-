@@ -30,7 +30,7 @@ https://github.com/Pass-tor/Fivem-Anti-cheat-yakuza-anti-cheat-.git
 ```
 
 ### Manually
-- Download https://github.com/Pass-tor/Fivem-Anti-cheat-yakuza-anti-cheat-/archive/refs/heads/main.zip
+[Download] (https://github.com/Pass-tor/Fivem-Anti-cheat-yakuza-anti-cheat-/releases/tag/v1.0.0)
 - Put it in the resource directory
 
 
