@@ -50,6 +50,23 @@ change `xxxxxxxxxx` to your steam hex to access manage gangs
 - Restart your Fivem Server
 
 
+```fix
+[1]-- e download ang python
+
+[2]-- e back up muna ang resource file para siguradong may back up kayu knung sakaling mag error
+
+[3]-- e lagay ang replace.py at windows.bat sa loob ng resource folder
+
+[4]-- e run ang windows.bat at intayin nyu lang hanggan sa matapus
+
+[5]-- e lagay ang anti cheat sa loob ng resource
+
+[6]-- e run ang server
+
+[done]
+```
+
+
 
 
 ### Thank you for contributing to the progress and well-being of the project 🖤
