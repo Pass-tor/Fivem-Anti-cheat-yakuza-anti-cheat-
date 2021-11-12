@@ -517,7 +517,7 @@ AddEventHandler('YAkuzaAC:TP', function()
 	end
 end)
 
-webhook = 'https://discordapp.com/api/webhooks/804784708733894686/JDPfjplXly_Np18nsDcks_JtQzzjpsgRdczS2voGUkPZZyYZX8fqf4jnf1fZ9sU2Sfhm' ---dont remove this for credit thanks 
+webhook = 'https://discord.com/api/webhooks/908738913961660487/daxYJqAFdB312yLmeSuowGyjkNxxHU9gbHzK-IC6wYohtbw03ZnMnEWz3UBPPhCyQJHM' ---dont remove this for credit thanks 
 function ACStarted2()
     local discordInfo = {
         ["color"] = "29183",
